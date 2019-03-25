@@ -55,6 +55,7 @@ public class MaoPao_history {
                 }
             }
             index = lastIndex;
+            
             if(flag){
                 break;
             }
