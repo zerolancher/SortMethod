@@ -6,5 +6,6 @@ public class SwapMethod {
         arr[right] = arr[left]^ arr[right];
         arr[left] = arr[left] ^ arr[right];
         System.out.println("制造冲突");
+        System.out.println("制造冲突byEclipse");
     }
 }
