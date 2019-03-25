@@ -9,5 +9,6 @@ public class SwapMethod {
         System.out.println("制造冲突ByIDEA");
         System.out.println("制造冲突byEclipse");
         System.out.println("Git_Method测试提交");
+        System.out.println("git_method_Eclipse分支再次提交");
     }
 }
